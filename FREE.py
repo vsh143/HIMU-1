@@ -1,3 +1,3 @@
-from UIMU import UIMU
-UIMU()
+from HIMU import HIMU
+HIMU()
 
